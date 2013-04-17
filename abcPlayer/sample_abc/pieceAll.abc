@@ -1,0 +1,13 @@
+X: 1
+T:Piece No.3
+M:8/4
+V:clarinet
+V:violin
+L:1/2
+Q:180
+K:G
+V:clarinet
+% Write something
+C C C3/4 ^^D/4 E |: E3/4 __D/4 z3/4 [^F/4e/4] G2 |[1 (3ccc (3GGG (3EEE (3CCC :|[2 G3/4 F/4 E3/4 D/4 C2 |]
+V:violin
+E3/4 _D/4 z3/4 [^F/4e/4] G2 |: ^C =C C3/4 ^C/4 C :| ^^G3/4 F/4 g3/4 G/4 z2 || C, C C3/4 D/4 E | C'',, C C3/4 D/4 [CEGcc'c''] |]
